@@ -2,7 +2,7 @@
 # ToxicHaxx
 ToxicHaxx Is An Project To Exploit And Raiding On Discord Only For Fun :)
 (CONSOLE APP)
-![Pic](http://prntscr.com/ox3qzj)
+![Pic](https://2.top4top.net/p_1331krrto1.png)
 I thought about making it open source, but I already made a tool like the open source and the result is to publish the tool by scanning my rights from them and putting someone else's rights for this.
 --------------------
 # Download:
