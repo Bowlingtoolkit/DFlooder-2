@@ -1,2 +1,2 @@
 Download Link:
-http://bit.ly/2MyGwDz
+https://www.file-up.org/b8lv455tat3p
