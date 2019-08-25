@@ -11,6 +11,7 @@ STAR THIS REPOSITORY PLZ :/
 --------------------
 # Download:
 **To Download ToxicHaxx Open This Link:** http://bit.ly/2MyGwDz
+Archive Password: ToxicHaxx
 --------------------
 
 # Terms Of Using:
