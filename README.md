@@ -49,6 +49,8 @@ Follow This Steps:
 - Open Cmd In The Directory The ToxicHaxx In
 - And Type This Command: .\ToxicHaxx.exe
 - Now The Tool Will Open And Any Error Happen It Will Appears
+
 - Now Send The Error In Issues Here ![issues](https://2.top4top.net/p_13327vaqk1.png)
+
 And I Will Reply With The Fix Method .
 ------------------------
