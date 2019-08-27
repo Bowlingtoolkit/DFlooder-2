@@ -1,5 +1,5 @@
 -----------------------
-# ToxicHaxx 2.0 BETA
+# ToxicHaxx 2.0.1 BETA
 ToxicHaxx Is An Project To Exploit And Raiding On Discord Only For Fun :)
 (CONSOLE APP)
 
