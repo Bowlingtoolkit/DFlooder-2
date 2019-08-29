@@ -30,7 +30,7 @@ This Tool Made For Fun ,I am not responsible in the fall of some big servers in 
 You Can Share This Tool But My Only Condition Is Writing ToxicTeam Rights rights
 --------------
 # Updates:
-2.0.1 Update News:
+2.0.2 Update News:
 - Added New Option: Annoying Sound In Specified Voice Channel
 - Fix Option Problems
 -------------
