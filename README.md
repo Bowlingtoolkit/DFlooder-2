@@ -1,5 +1,5 @@
 -----------------------
-# ToxicHaxx 2.0.1 BETA
+# ToxicHaxx 2.0.2 BETA
 ToxicHaxx Is An Project To Exploit And Raiding On Discord Only For Fun :)
 (CONSOLE APP)
 
@@ -31,7 +31,8 @@ You Can Share This Tool But My Only Condition Is Writing ToxicTeam Rights rights
 --------------
 # Updates:
 2.0.1 Update News:
-Added New Option: Annoying Sound In Specified Voice Channel
+- Added New Option: Annoying Sound In Specified Voice Channel
+- Fix Option Problems
 -------------
 
 
