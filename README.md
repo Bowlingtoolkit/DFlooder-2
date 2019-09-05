@@ -1,3 +1,4 @@
+#PASSWORD CHANGED TO ToxicHaxx
 -----------------------
 # ToxicHaxx 2.0.2 BETA
 ToxicHaxx Is An Project To Exploit And Raiding On Discord Only For Fun :)
@@ -16,7 +17,7 @@ STAR THIS REPOSITORY PLZ :/
 --------------------
 # Download:
 **To Download ToxicHaxx Open This Link:** http://bit.ly/2NKGk3w
-Archive Password: ToxicCodes
+Archive Password: ToxicHaxx
 --------------------
 
 # Terms Of Using:
