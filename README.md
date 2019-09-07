@@ -1,7 +1,7 @@
-#PASSWORD CHANGED TO ToxicHaxx
+#PASSWORD CHANGED TO DFlooder
 -----------------------
-# ToxicHaxx 2.0.2 BETA
-ToxicHaxx Is An Project To Exploit And Raiding On Discord Only For Fun :)
+# DFlooder 2.0.2 BETA
+DFlooder Is An Project To Exploit And Raiding On Discord Only For Fun :)
 (CONSOLE APP)
 
 ![logo](https://6.top4top.net/p_1331viz4e1.png)
@@ -16,8 +16,8 @@ STAR THIS REPOSITORY PLZ :/
 # BY TOXIC TEAM !
 --------------------
 # Download:
-**To Download ToxicHaxx Open This Link:** http://bit.ly/2NKGk3w
-Archive Password: ToxicHaxx
+**To Download DFlooder Open This Link:** http://bit.ly/2NKGk3w
+Archive Password: DFlooder
 --------------------
 
 # Terms Of Using:
@@ -45,12 +45,12 @@ Just Download And Decompression It Archive Password Is : ToxicCodes
 And Open Install pkgs.bat
 It Will Install Requirement Packages,
 
-Now You Can Open ToxicHaxx.exe
+Now You Can Open DFlooder.exe
 
 # IF THE TERMINAL/CMD CLOSED WHEN OPEN OR WHEN CHOOSE AN OPTION
 Follow This Steps:
-- Open Cmd In The Directory The ToxicHaxx In
-- And Type This Command: .\ToxicHaxx.exe
+- Open Cmd In The Directory The DFlooder In
+- And Type This Command: .\DFlooder.exe
 - Now The Tool Will Open And Any Error Happen It Will Appears
 
 - Now Send The Error In Issues Here ![issues](https://2.top4top.net/p_13327vaqk1.png)
