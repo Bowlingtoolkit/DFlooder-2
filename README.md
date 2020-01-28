@@ -1,4 +1,5 @@
-#PASSWORD CHANGED TO DFlooder
+# NEW VERSION 3.0 SOON !
+
 -----------------------
 # DFlooder 2.0.3 BETA
 DFlooder Is An Project To Exploit And Raiding On Discord Only For Fun :)
