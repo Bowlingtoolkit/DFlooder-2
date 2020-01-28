@@ -1,4 +1,4 @@
-# NEW VERSION 3.0 SOON !
+# NEW VERSION 3.0.0 SOON !
 
 -----------------------
 # DFlooder 2.0.3 BETA
