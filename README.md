@@ -1,4 +1,4 @@
-# NEW VERSION 3.0.0 SOON !
+# OUTDATED ! [NEW VERSION](https://github.com/Bowlingtoolkit/DFlooder-3.0)
 
 -----------------------
 # DFlooder 2.0.3 BETA
